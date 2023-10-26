@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lázaro (@lazarovttac)
-- 🌱 I’m currently learning WEB related technologies, like Javascript and React JS
+- 🌱 Systems Engineering student at UNCPBA Argentina
+- 💪 Web Developer and Game Creator
 - 👀 I’m looking to collaborate on the thinking, designing and development process of new solutions and exciting experiences
 
 <!---
