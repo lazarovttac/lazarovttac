@@ -1,7 +1,7 @@
 ### 💫 About Me:
 👋 Hi, I’m Lázaro!
-<br>💪 A passionate web developer and game creator
-<br>🌱 Currently pursuing a degree in Systems Engineering at UNCPBA (Argentina)
+<br>💪 AI & Web Developer
+<br>⌨️ Systems Engineer
 <br>👀 Excited to collaborate on innovative projects and create engaging user experiences.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=GoogleChrome&logoColor=white)](https://lazarovttac.github.io/) 
